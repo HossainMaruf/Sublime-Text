@@ -149,4 +149,83 @@
 	/*"gnc_m01": true,*/
 	/*"gnc_w2m10": true,*/
 	/*"gnc_m02": true,*/
+	/*"gnc_h11": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_w3m11": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_h13": true,*/
+	/*"gnc_m05": true,*/
+	/*"gnc_002": false,*/
+	/*"gnc_h23": true,*/
+	/*"gnc_m02": true,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_m04": true,*/
+	"added_words":
+	[
+		"\n</"
+	],
+	/*"gnc_001": false,*/
+	/*"gnc_h13": true,*/
+	/*"gnc_m00": true,*/
+	/*"gnc_w4m14": true,*/
+	/*"gnc_h19": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_w4m10": true,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_h21": true,*/
+	/*"gnc_m05": true,*/
+	/*"gnc_w4m11": true,*/
+	/*"gnc_m06": true,*/
+	/*"gnc_h23": true,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_w4m10": true,*/
+	/*"gnc_m00": true,*/
+	/*"gnc_w4m11": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_h10": true,*/
+	/*"gnc_m06": true,*/
+	/*"gnc_w5m11": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_h10": true,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_w5m11": true,*/
+	/*"gnc_m09": true,*/
+	/*"gnc_h10": true,*/
+	/*"gnc_m09": true,*/
+	/*"gnc_w5m11": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_m00": true,*/
+	/*"gnc_w5m12": true,*/
+	/*"gnc_002": true,*/
+	/*"gnc_h10": true,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_w5m12": true,*/
+	/*"gnc_h10": true,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_w5m13": true,*/
+	"gnc_001": false,
+	/*"gnc_m00": true,*/
+	/*"gnc_w5m14": true,*/
+	/*"gnc_m01": true,*/
+	"gnc_002": false,
+	/*"gnc_m02": true,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_m00": true,*/
+	/*"gnc_w5m15": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_m02": true,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_m09": true,*/
+	"gnc_h11": true,
+	/*"gnc_m08": true,*/
+	/*"gnc_w5m13": true,*/
+	/*"gnc_m02": true,*/
+	/*"gnc_w5m14": true,*/
+	"auto_complete": true,
+	/*"gnc_m07": true,*/
+	/*"gnc_m06": true,*/
+	"gnc_w5m15": true,
+	"gnc_m07": true,
 }
