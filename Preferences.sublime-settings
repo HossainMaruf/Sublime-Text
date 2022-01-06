@@ -2,6 +2,9 @@
 	"ignored_packages":
 	[
 		"JSLint",
+		"Six",
+		"Vintage",
+		"Vintageous",
 	],
 	"color_scheme": "Packages/Guna/themes/Guna.sublime-color-scheme",
 	"theme": "Guna.sublime-theme",
@@ -448,9 +451,9 @@
 	/*"gnc_m07": true,*/
 	/*"gnc_m03": true,*/
 	/*"gnc_w3m12": true,*/
-	"gni_001": false,
-	"gni_002": false,
-	"gni_003": false,
+	/*"gni_001": false,*/
+	/*"gni_002": false,*/
+	/*"gni_003": false,*/
 	/*"gnc_m06": true,*/
 	/*"gnc_m09": true,*/
 	/*"gnc_m01": true,*/
@@ -502,7 +505,52 @@
 	/*"gnc_m04": true,*/
 	/*"gnc_m07": true,*/
 	/*"gnc_m08": true,*/
-	"gnc_h08": true,
-	"gnc_m03": true,
-	"gnc_w3m13": true,
+	/*"gnc_h08": true,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_w3m13": true,*/
+	/*"gnc_h10": true,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_w3m13": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_002": false,*/
+	/*"gnc_m06": true,*/
+	/*"gnc_w3m14": true,*/
+	/*"gni_003": false,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_w3m15": true,*/
+	/*"gnc_h11": true,*/
+	/*"gnc_m09": true,*/
+	/*"gnc_w3m10": true,*/
+	/*"gni_001": false,*/
+	/*"gni_002": false,*/
+	/*"gnc_m06": true,*/
+	/*"gnc_w3m11": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_m05": true,*/
+	/*"gnc_w3m12": true,*/
+	/*"gnc_m06": true,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_w3m13": true,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_002": false,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_w3m14": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_h12": true,*/
+	/*"gnc_m00": true,*/
+	/*"gnc_w3m10": true,*/
+	"vintageous_use_ctrl_keys": true,
+	/*"gnc_m01": true,*/
+	/*"gnc_m05": true,*/
+	/*"gnc_w3m14": true,*/
+
+	/* Overriding the default settings */
+	"vintageous_i_escape_jj": true,
+	"vintageous_i_escape_jk": true,
+	"vintageous_enable_sneak": true,
 }
