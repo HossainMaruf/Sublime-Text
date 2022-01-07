@@ -62,6 +62,66 @@
 	"rules": [
 
 		{
+			"foreground": "#858585FF",
+			"scope": "col_000000CC",
+			"background": "#000000CC"
+		},
+		{
+			"foreground": "#080808FF",
+			"scope": "col_EE6677EE",
+			"background": "#EE6677EE"
+		},
+		{
+			"foreground": "#101010FF",
+			"scope": "col_EE6677FF",
+			"background": "#EE6677FF"
+		},
+		{
+			"foreground": "#888888FF",
+			"scope": "col_000000B2",
+			"background": "#000000B2"
+		},
+		{
+			"foreground": "#0A0A0AFF",
+			"scope": "col_EF6D17FF",
+			"background": "#EF6D17FF"
+		},
+		{
+			"foreground": "#121212FF",
+			"scope": "col_E67E22FF",
+			"background": "#E67E22FF"
+		},
+		{
+			"foreground": "#747474FF",
+			"scope": "col_F4F4F4FF",
+			"background": "#F4F4F4FF"
+		},
+		{
+			"foreground": "#D5D5D5FF",
+			"scope": "col_555555FF",
+			"background": "#555555FF"
+		},
+		{
+			"foreground": "#7F7F7FFF",
+			"scope": "col_FFFFFFFF",
+			"background": "#FFFFFFFF"
+		},
+		{
+			"foreground": "#808080FF",
+			"scope": "col_000000FF",
+			"background": "#000000FF"
+		},
+		{
+			"foreground": "#ffffff",
+			"scope": "col_gutter",
+			"background": "#000000"
+		},
+		{
+			"foreground": "#CCCCCCFF",
+			"scope": "col_FF0000FF",
+			"background": "#FF0000FF"
+		},
+		{
 			"scope": "keyword, keyword.control, keyword.operator, keyword.other",
 			"foreground": "var(keyword)"
 		},
