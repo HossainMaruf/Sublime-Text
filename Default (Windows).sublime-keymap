@@ -1,5 +1,6 @@
 [
-	{ 
-        "keys": ["ctrl+j"], "command": "toggle_terminus_panel"
-    }
+	{"keys": ["ctrl+j"], "command": "toggle_terminus_panel"},
+    { "keys": ["ctrl+i"], "command": "redo"},
+    { "keys": ["ctrl+m"], "command": "focus_neighboring_group", "args": {"forward": true} },
+    { "keys": ["ctrl+shift+m"], "command": "focus_neighboring_group", "args": {"forward": false} },
 ]
