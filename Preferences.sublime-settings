@@ -5,12 +5,13 @@
 		"JSHint",
 		"JSHint Gutter",
 		"JSLint",
+		"LSP-copilot",
 		"Six",
 		"Vintage",
 		"Vintageous",
 	],
-	"color_scheme": "ayu-mirage.sublime-color-scheme",
-	"theme": "ayu-mirage.sublime-theme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"theme": "Adaptive.sublime-theme",
 	/*"gnc_m06": true,*/
 	/*"gnc_w6m11": true,*/
 	/*"gn_hide_tab_dropdown": true,*/
@@ -32,7 +33,7 @@
 	/*"gnc_m00": true,*/
 	/*"gnc_w6m12": true,*/
 	/*"gnc_m01": true,*/
-	"neovintageous_build_version": 11100,
+	"neovintageous_build_version": 12700,
 	/*"gnc_001": false,*/
 	/*"gnc_h16": true,*/
 	/*"gnc_m02": true,*/
@@ -1149,7 +1150,7 @@
 	/*"gnc_h12": true,*/
 	/*"gnc_m02": true,*/
 	/*"gnc_w3m11": true,*/
-	"font_size": 14,
+	"font_size": 13,
 	/*"gnc_m03": true,*/
 	/*"gnc_001": false,*/
 	/*"gnc_h17": true,*/
@@ -1856,4 +1857,6 @@
 	/*"gnc_m05": true,*/
 	/*"gnc_w3m12": true,*/
 	"gni_003": false,
+	"spell_check": true,
+	"tab_size": 2,
 }
