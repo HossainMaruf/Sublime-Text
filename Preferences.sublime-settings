@@ -2,16 +2,21 @@
 	"ignored_packages":
 	[
 		"ESLint",
+		"Find PHP Vulnerabilities",
 		"JSHint",
 		"JSHint Gutter",
 		"JSLint",
-		"LSP-copilot",
 		"Six",
 		"Vintage",
 		"Vintageous",
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Theme - City Lights/City-Lights.tmTheme",
+	"theme": "City-Lights.sublime-theme",
+	"fonts_list":
+  [
+      "Consolas",
+      "Lucida Console",
+	],
 	/*"gnc_m06": true,*/
 	/*"gnc_w6m11": true,*/
 	/*"gn_hide_tab_dropdown": true,*/
@@ -1859,4 +1864,9 @@
 	"gni_003": false,
 	"spell_check": true,
 	"tab_size": 2,
+	"font_face": "Consolas",
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"word_wrap": "auto",
+	"wrap_width": 0,
 }
