@@ -11,12 +11,21 @@
 		"Vintageous",
 	],
 	"color_scheme": "Packages/Theme - City Lights/City-Lights.tmTheme",
-	"theme": "City-Lights.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"fonts_list":
   [
       "Consolas",
       "Lucida Console",
+      "Cascadia Code",
+      "Cascadia Mono",
+      "Courier New",
+      "Hack Nerd Font"
 	],
+  "line_padding_top": 5,
+  "line_padding_bottom": 5,
+	"highlight_modified_tabs": true,
+	"vintage_use_clipboard": true,
+	"relative_line_numbers": true,
 	/*"gnc_m06": true,*/
 	/*"gnc_w6m11": true,*/
 	/*"gn_hide_tab_dropdown": true,*/
@@ -563,6 +572,7 @@
 	"vintageous_i_escape_jj": true,
 	"vintageous_i_escape_jk": true,
 	"vintageous_enable_sneak": false,
+	"vintageous_use_sys_clipboard": true,
 	/*"gnc_001": false,*/
 	/*"gnc_002": true,*/
 	/*"gnc_h16": true,*/
@@ -1864,9 +1874,11 @@
 	"gni_003": false,
 	"spell_check": true,
 	"tab_size": 2,
-	"font_face": "Consolas",
-	"line_padding_bottom": 0,
-	"line_padding_top": 0,
+	"font_face": "Cascadia Code",
+	/*"line_padding_bottom": 0,*/
+	/*"line_padding_top": 0,*/
 	"word_wrap": "auto",
 	"wrap_width": 0,
+	/*"line_padding_bottom": 0,*/
+	/*"line_padding_top": 0,*/
 }
