@@ -10,8 +10,8 @@
 		"Vintage",
 		"Vintageous",
 	],
-	"color_scheme": "Packages/Theme - City Lights/City-Lights.tmTheme",
-	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Colorsublime - Themes/Spring.tmTheme",
+	"theme": "ayu-light.sublime-theme",
 	"fonts_list":
   [
       "Consolas",
@@ -24,7 +24,6 @@
   "line_padding_top": 5,
   "line_padding_bottom": 5,
 	"highlight_modified_tabs": true,
-	"vintage_use_clipboard": true,
 	"relative_line_numbers": true,
 	/*"gnc_m06": true,*/
 	/*"gnc_w6m11": true,*/
